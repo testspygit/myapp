@@ -5,7 +5,7 @@ public class myapp011 {
     }
 
     public void printInfo() {
-        System.out.println("khadija ","Sp21-bct-011");
+        System.out.println("khadija "+"Sp21-bct-011");
     }
 
 }
