@@ -1,19 +1,9 @@
 public class myapp027{
- private String name;
- private String Rollnum;
-
- public myapp027(String name,String Rollnum){
-  this.name=name;
-  this.Rollnum=Rollnum;
+ public myapp027(){
 }
-public void displayinfo(){
-System.out.println("Name"+ name);
-System.out.println("Rollnum" + Rollnum);
-}
-
-public static void main(String[] args){
- myapp027 student=new myapp027("Noor-ul-Ain","SP21-BCT-27");
- student.displayinfo();
+public void printinfo(){
+System.out.println("Noor ul Ain");
+System.out.println("Sp21-bt-027");
 }
 }
 
