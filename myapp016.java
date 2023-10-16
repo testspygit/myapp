@@ -1,3 +1,4 @@
+//myapp
 public class myapp016 {
     public void printinfo(String[] args) {
         String name = "Muhammad Fawad Mushtaq";
