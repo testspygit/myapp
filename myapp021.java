@@ -9,3 +9,4 @@ public class myapp021 {
         System.out.println("Semester: " + semester + "th");
     }
 }
+//info-function changed
