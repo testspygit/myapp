@@ -1,5 +1,5 @@
 public class myapp021 {
-    public void printinfo (String[] args) {
+    public void printInfo () {
         String name = "Rabbiya Tabassum";
         String regNo = "SP21-BCT-021";
         int semester = 6;
