@@ -10,4 +10,4 @@ public class myapp012 {
     }
 }
 
-
+//this is myapp , this wil print my name,regno and semester
