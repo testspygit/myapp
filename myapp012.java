@@ -6,7 +6,7 @@ public class myapp012 {
 
         System.out.println("Name: " + name);
         System.out.println("Registration Number: " + regNo);
-        System.out.println("Semester: " + semester + "th");
+        System.out.println("Semester: " + semester);
     }
 }
 
