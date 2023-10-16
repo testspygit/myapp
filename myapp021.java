@@ -9,4 +9,4 @@ public class myapp021 {
         System.out.println("Semester: " + semester + "th");
     }
 }
-//info-function changed again
+//info-function print name, reg no and semester
